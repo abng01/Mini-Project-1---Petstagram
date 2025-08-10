@@ -1,0 +1,19 @@
+{
+  "name": "mini-project-1---petstagram",
+  "version": "1.0.0",
+  "description": "First mini project utilising HTML, CSS and JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abng01/Mini-Project-1---Petstagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abng01/Mini-Project-1---Petstagram/issues"
+  },
+  "homepage": "https://github.com/abng01/Mini-Project-1---Petstagram#readme"
+}
