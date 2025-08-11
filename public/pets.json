@@ -1,0 +1,124 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Cino",
+      "image": "/public/assets/cino.jpg",
+      "breed": "Toy Poodle",
+      "colour": "Black",
+      "description": "Shy but a little bit cheeky"
+    },
+    {
+      "id": 2,
+      "name": "Luna",
+      "image": "https://media1.tenor.com/m/MDXvKWaErKcAAAAd/cat-food.gif",
+      "breed": "Domestic Shorthair",
+      "colour": "White and Golden",
+      "description": "Awkward but loves food"
+    },
+    {
+      "id": 3,
+      "name": "Maximillian Maximus 3rd",
+      "image": "https://media1.tenor.com/m/KAFAckh2tjwAAAAd/wake-up-arise.gif",
+      "breed": "Chihuahua",
+      "colour": "Tan",
+      "description": "Fierce but sleepy"
+    },
+    {
+      "id": 4,
+      "name": "Milo",
+      "image": "https://dogsvictoria.org.au/media/img/BrowseAllBreed//Cavalier%20King%20Charles%20Spaniel%2001_adobe_express.jpeg",
+      "breed": "Cavalier King Charles Spaniel",
+      "colour": "Chestnut and White",
+      "description": "Gentle and affectionate"
+    },
+    {
+      "id": 5,
+      "name": "Bella",
+      "image": "https://www.alwayspets.com/wp-content/uploads/2024/11/f157600bece745bdb11a80c08696e838.webp",
+      "breed": "Shih Tzu",
+      "colour": "White and Brown",
+      "description": "Loves cuddles and attention"
+    },
+    {
+      "id": 6,
+      "name": "Charlie",
+      "image": "https://www.drool.pet/cdn/shop/files/Website_Mobile_18.jpg?v=1742438030&width=800",
+      "breed": "Beagle",
+      "colour": "Tri-colour",
+      "description": "Curious nose and full of energy"
+    },
+    {
+      "id": 7,
+      "name": "Daisy",
+      "image": "https://bartlettsbullys.com/files/resized/439758/cropped/800;750;fd1cd7b89aca404bb4ba0c9357b6a2f050835252.jpg",
+      "breed": "Staffy",
+      "colour": "Gray",
+      "description": "Chill and always hungry"
+    },
+    {
+      "id": 8,
+      "name": "Rocky",
+      "image": "https://preview.redd.it/my-adorable-doberman-seed-and-my-fully-sprouted-doberman-v0-p2yga31ccuua1.jpg?width=640&crop=smart&auto=webp&s=884be9255decb039dca174d2fc151bdbd5e6c19c",
+      "breed": "Doberman",
+      "colour": "Black and Brown",
+      "description": "Playful with a heart of gold"
+    },
+    {
+      "id": 9,
+      "name": "Chloe",
+      "image": "https://preview.redd.it/how-often-does-your-pom-throw-up-v0-kf9bauhanbjd1.jpeg?width=1080&crop=smart&auto=webp&s=e2c5252fcae81dc87cf42266b30d4729e35af2e4",
+      "breed": "Pomeranian",
+      "colour": "White",
+      "description": "Small but full of personality"
+    },
+    {
+      "id": 10,
+      "name": "Teddy",
+      "image": "https://i.pinimg.com/736x/51/40/c4/5140c4dbdb66db82a00fc395fc06b263.jpg",
+      "breed": "Cockapoo",
+      "colour": "Apricot",
+      "description": "Fluffy, bouncy, and sweet"
+    },
+    {
+      "id": 11,
+      "name": "Ruby",
+      "image": "https://i0.wp.com/miniatureschnauzersoftexas.com/wp-content/uploads/2023/10/Miniature-Schnauzer-puppies-near-me-3-scaled.jpg?fit=1920%2C2560&ssl=1",
+      "breed": "Miniature Schnauzer",
+      "colour": "Salt and Pepper",
+      "description": "Proper little lady with attitude"
+    },
+    {
+      "id": 12,
+      "name": "Finn",
+      "image": "https://pethelpful.com/.image/w_3840,q_auto:good,c_fill,ar_4:3/MTc0Mjg5ODgwMjQ2MTM0MjY4/wantabordercolliebutdonthaveayard.jpg",
+      "breed": "Border Collie",
+      "colour": "Black and White",
+      "description": "Energetic and highly intelligent"
+    },
+    {
+      "id": 13,
+      "name": "Duke",
+      "image": "https://petzpark.com.au/cdn/shop/articles/German-Shepherd_800x.jpg?v=1742526832",
+      "breed": "German Shepherd",
+      "colour": "Black and Tan",
+      "description": "Loyal, smart, and protective"
+    },
+    {
+      "id": 14,
+      "name": "Ollie",
+      "image": "https://i.pinimg.com/564x/17/ff/fb/17fffb89f80b39e081fa24518d59779c.jpg",
+      "breed": "Cockalier",
+      "colour": "Golden",
+      "description": "Loves the outdoors and belly rubs"
+    },
+    {
+      "id": 15,
+      "name": "Nala",
+      "image": "https://preview.redd.it/wqeihku0fju31.jpg?width=640&crop=smart&auto=webp&s=84540ca28a26122d5d2e181a596043e11495aafc",
+      "breed": "Husky",
+      "colour": "White and Grey",
+      "description": "Talkative and loves snow"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+body {
+    background: #2a649b;
+    background: linear-gradient(90deg, rgba(42, 100, 155, 1) 0%, rgba(212, 145, 106, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+
+
+.main-page-container {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+} 
+
+.main-content {
+    align-content: center;
+    display: block;
+}
+
+h1 {
+    display: block;
+    padding-bottom: 10px;
+    font-family: "Intel One Mono", monospace;
+    height: min-content;
+    color: rgba(255, 255, 255, 0.908);
+    font-size: 8.8vmin;
+    white-space: nowrap;
+    overflow: hidden;
+    font-weight: lighter;
+    border-right: 1ch solid currentColor;
+    animation:
+        typing 5s steps(11, start) forwards,
+        blink 0.6s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 11ch; } /* Number of characters in the word */
+}
+
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+.main-links {
+    margin-top: 2em;
+    padding: 1em;
+    height: 6em;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2em;
+    position: fixed;
+    margin: 0 auto;
+    margin-top: 15em;
+}
+
+a {
+    background: rgba(240, 240, 240, 0.381);
+    padding: 0 1em 0 1em;
+    display: block;
+    height: 3em;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1em;
+    font-size: 20px;
+    color: white;
+    align-content: center;
+}
+
+a:hover {
+    background: rgba(255, 255, 255, 0.791);
+    color: rgba(146, 146, 146, 0.674);
+    transition-duration: 0.5s;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+        background: #2a649b;
+        background: linear-gradient(90deg, rgba(42, 100, 155, 1) 0%, rgba(150, 129, 124, 1) 23%, rgba(212, 145, 106, 1) 45%, rgba(219, 167, 99, 1) 72%, rgba(237, 221, 83, 1) 100%);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .main-links {
+        display: grid;
+        justify-items: center;
+    }
+}
